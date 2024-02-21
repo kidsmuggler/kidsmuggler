@@ -1,4 +1,4 @@
-- Hey I'm Kid Smuggler An Intermediate Developer And Casual Gamer.
+- Hey I'm **Kid-Smuggler** An Intermediate Developer And Casual Gamer.
 - More Project Deploying Soon On Git-Hub.
 
 ### About
