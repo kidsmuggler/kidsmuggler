@@ -1,7 +1,11 @@
----
-
 - Hey I'm **Kid-Smuggler** An Intermediate Developer And Casual Gamer.
 - More Project Deploying Soon On Git-Hub.
+
+---
+### Social
+- E-Mail: `help.volksgeist@gmail.com`
+- Discord: `@volk.xr`
+- Instagram: [Click Here](https://instagram.com/volksgeistt)
 
 ### About
 *I'm an experienced developer that is constantly seeking new information and advancements in the field of programming. I create useful and aesthetically pleasing web experiences using a strong foundation in HTML and CSS. Python is the language I use to create flexible, beautiful solutions to challenging issues. I'm currently immersing myself in the world of C, eager to appreciate its complexity and strength. As I'm dedicated to ongoing learning and improvement, my journey in the world of coding is constantly changing. I'm eager to learn more about emerging technologies and to broaden my skill set so that I'm better equipped to meet the challenges of the future.*
