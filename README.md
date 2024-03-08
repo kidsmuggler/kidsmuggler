@@ -3,8 +3,8 @@
 
 ---
 ### Social
-- E-Mail: `help.volksgeist@gmail.com`
-- Discord: `@volk.xr`
+- E-Mail: `unrealvolksgeist@gmail.com`
+- Discord: `@volksgeistt`
 - Instagram: [Click Here](https://instagram.com/volksgeistt)
 ---
 ### About
