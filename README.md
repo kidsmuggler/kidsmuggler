@@ -1,4 +1,7 @@
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/1181595250599415849/1215570380031393792/Aesthetic_Discord_GIF_Aesthetic_Discord_Header_discover_and_share_GIFs.gif?ex=65fd3b22&is=65eac622&hm=7ad2f39b6f59e63c6a606b2af460ce6870087da84e6214b4b71ac0c3e6739788&"></p>
+
+---
+
 - Hey I'm **Kid-Smuggler** An Intermediate Developer And Casual Gamer.
 - More Project Deploying Soon On Git-Hub.
 
